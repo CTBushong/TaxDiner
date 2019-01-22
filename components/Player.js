@@ -206,14 +206,14 @@ export default class Player extends React.Component {
             className="player__speed"
             type="button"
           >
-            <p>FASTNESS</p>
+            <p>Speed</p>
             <span className="player__speeddisplay">
               {playbackRate} &times;{' '}
             </span>
           </button>
 
           <div className="player__volume">
-            <p>LOUDNESS</p>
+            <p>Volume</p>
             <div className="player__inputs">
               <input
                 onChange={this.volume}

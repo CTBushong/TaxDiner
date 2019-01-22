@@ -1,5 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { FaBroadcastTower } from 'react-icons/fa';
+import { MdFileDownload } from 'react-icons/md';
+
 
 const ShowNotes = ({ show, setCurrentPlaying }) => (
   <div className="showNotes">
@@ -10,18 +13,10 @@ const ShowNotes = ({ show, setCurrentPlaying }) => (
       onClick={() => setCurrentPlaying(show.displayNumber)}
       type="button"
     >
-      <span className="icon">🎵</span> Play Episode {show.displayNumber}
+      <span className="icon"><FaBroadcastTower /></span> Play Episode {show.displayNumber}
     </button>
     <a className="button" download href={show.url}>
-      <span className="icon">👇</span> Download Show
-    </a>
-    <a
-      className="button"
-      href={`https://github.com/wesbos/Syntax/edit/master/${show.notesFile}`}
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <span className="icon">✏️</span> Edit Show Notes
+      <span className="icon"><MdFileDownload /></span> Download Show
     </a>
     <div dangerouslySetInnerHTML={{ __html: show.html }} />
   </div>

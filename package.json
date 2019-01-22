@@ -1,6 +1,6 @@
 {
-  "name": "Syntax",
-  "description": "Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.",
+  "name": "Tax Diner",
+  "description": "A casual podcast for tax professionals.",
   "engines": {
     "node": ">=8.1.2"
   },
@@ -35,7 +35,7 @@
     "raw-loader": "^0.5.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-icons": "^3.0.5",
+    "react-icons": "^3.3.0",
     "speakingurl": "^14.0.1"
   },
   "devDependencies": {

@@ -2,19 +2,16 @@ import Link from 'next/link';
 
 const Footer = () => (
   <footer className="bottom">
+    <p>&copy; Chris Bushong {new Date().getFullYear()}</p>
     <p>
-      Want to <Link href="/sponsor"><a>Sponsor the Podcast?</a></Link>
-    </p>
-    <p>&copy; Wes Bos && Scott Tolinski {new Date().getFullYear()}</p>
-    <p>
-      Website made with React, Next.js and stylus. Hosted on Now. The source is
-      on{' '}
+      Website shamelessly copied from Wes Bos and Scott Tolinski at {' '}
       <a
-        href="https://github.com/wesbos/syntax"
+        href="https://syntax.fm"
         target="_blank"
         rel="noopener noreferrer"
+        className="footer-link"
       >
-        GitHub
+        Syntax.fm
       </a>
       .
     </p>

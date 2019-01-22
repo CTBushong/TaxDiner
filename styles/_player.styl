@@ -114,12 +114,12 @@
     flex-wrap wrap
     flex 1 0 auto
     &:focus-within
-      outline: yellow auto 5px;
+      outline: brown auto 5px;
     &:hover
       label
-        border-top 1px solid yellow
+        border-top 1px solid brown
     label
-      border-top 1px solid green
+      border-top 1px solid #79AD54
       &:hover
         & ~ label
           border-top 1px solid black
@@ -127,7 +127,7 @@
       width 100%
       margin 0
     input ~ label
-      background green
+      background #79AD54
       border-right 2px solid black
       display inline-block
       width 8px
@@ -135,7 +135,7 @@
     input:checked ~ label
       background grey
     input:checked + label
-      background green
+      background #79AD54
 
 .progress
   background lighten(#000,5%)
