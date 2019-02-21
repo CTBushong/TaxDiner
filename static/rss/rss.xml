@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Tax Diner</title>
+    <link>http://TaxDiner.com</link>
+    <description>Conversations with tax professionals about what works and what doesn't in the tax services business.</description>
+	 <itunes:summary>Tax attorney Chris Bushong chats with tax professionals about their hard-won knowledge, professional challenges, and insights into the changing market for tax services. We'll cover the issues most pressing to small and medium tax firms, from business prac</itunes:summary>
+	 <itunes:subtitle />
+    <itunes:category text="Business"></itunes:category>
+	<language>en-us</language>
+    <copyright>2006. All rights reserved.</copyright>
+    <pubDate>Thu, 21 Feb 2019 02:05:00 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Feb 2019 02:05:00 GMT</lastBuildDate>
+    <generator>Podcastblaster.com</generator>
+    <managingEditor>chris.bushong@gmail.com(Chris)</managingEditor>
+    <webMaster>chris.bushong@gmail.com</webMaster>
+    <image>
+    <url>https://s3.us-west-1.wasabisys.com/tax-diner/iTunes_Artwork.png</url>
+    <title>Tax Diner</title>
+    <link>http://TaxDiner.com</link>
+    <width>0</width>
+    <height>0</height>
+    </image>
+    <itunes:image href="https://s3.us-west-1.wasabisys.com/tax-diner/iTunes_Artwork.png" />
+    <itunes:owner>
+      <itunes:name>Chris</itunes:name>
+      <itunes:email>chris.bushong@gmail.com</itunes:email>
+    </itunes:owner>
+    
+    <itunes:author>Chris Bushong</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <ttl>1</ttl>
+    <item>
+      <title>Pilot Episode - Michael Diyanni of La Jolla Tax</title>
+      <link>https://s3.us-west-1.wasabisys.com/tax-diner/001 Mike Diyanni.mp3</link>
+      <comments>https://s3.us-west-1.wasabisys.com/tax-diner/001 Mike Diyanni.mp3</comments>
+      <itunes:author>Chris Bushong</itunes:author>
+      <dc:creator>Chris Bushong</dc:creator>
+      <description>Michael Diyanni is a tax attorney and part time digital nomad. His practice, La Jolla Tax, provides tax services to small business owners.</description>
+      <pubDate>Thu, 21 Feb 2019 02:05:00 GMT</pubDate>
+      <itunes:image href="https://s3.us-west-1.wasabisys.com/tax-diner/iTunes_Artwork.png" />
+      <itunes:subtitle>Tax and Yoga in South America and in the Cloud</itunes:subtitle>
+      <itunes:summary>In our inaugural episode, Chris talks to Mike Diyanni about running a tax firm while teaching yoga in Peru.</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>00:32:46</itunes:duration>
+      <enclosure url="https://s3.us-west-1.wasabisys.com/tax-diner/001 Mike Diyanni.mp3" length="12582912" type="audio/mpeg" />
+      <guid>https://s3.us-west-1.wasabisys.com/tax-diner/001 Mike Diyanni.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

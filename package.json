@@ -1,5 +1,5 @@
 {
-  "name": "Tax Diner",
+  "name": "tax-diner",
   "description": "A casual podcast for tax professionals.",
   "engines": {
     "node": ">=8.1.2"
@@ -13,8 +13,8 @@
   },
   "now": {
     "alias": [
-      "syntax",
-      "syntax.fm"
+      "taxdiner",
+      "taxdiner.com"
     ]
   },
   "dependencies": {
