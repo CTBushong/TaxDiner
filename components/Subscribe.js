@@ -38,7 +38,7 @@ const Subscribe = props => (
         </a>
       </li>
       <li className="subscribe__link subscribe__link--pocketcasts">
-        <a target="_blank" href="http://pca.st/fmx9" rel="noopener noreferrer">
+        <a target="_blank" href="https://pca.st/NHP0" rel="noopener noreferrer">
           PocketCasts
         </a>
       </li>
