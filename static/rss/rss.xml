@@ -8,7 +8,7 @@
 	 <itunes:subtitle />
     <itunes:category text="Business"></itunes:category>
 	<language>en-us</language>
-    <copyright>2006. All rights reserved.</copyright>
+    <copyright>2019. All rights reserved.</copyright>
     <pubDate>Thu, 21 Feb 2019 02:05:00 GMT</pubDate>
     <lastBuildDate>Thu, 21 Feb 2019 02:05:00 GMT</lastBuildDate>
     <generator>Podcastblaster.com</generator>
@@ -32,8 +32,8 @@
     <ttl>1</ttl>
     <item>
       <title>Pilot Episode - Michael Diyanni of La Jolla Tax</title>
-      <link>https://s3.us-west-1.wasabisys.com/tax-diner/001 Mike Diyanni.mp3</link>
-      <comments>https://s3.us-west-1.wasabisys.com/tax-diner/001 Mike Diyanni.mp3</comments>
+      <link>https://s3.us-west-1.wasabisys.com/tax-diner/001_Michael_Diyanni.mp3</link>
+      <comments>https://s3.us-west-1.wasabisys.com/tax-diner/001_Michael_Diyanni.mp3</comments>
       <itunes:author>Chris Bushong</itunes:author>
       <dc:creator>Chris Bushong</dc:creator>
       <description>Michael Diyanni is a tax attorney and part time digital nomad. His practice, La Jolla Tax, provides tax services to small business owners.</description>
@@ -43,8 +43,8 @@
       <itunes:summary>In our inaugural episode, Chris talks to Mike Diyanni about running a tax firm while teaching yoga in Peru.</itunes:summary>
       <itunes:keywords></itunes:keywords>
       <itunes:duration>00:32:46</itunes:duration>
-      <enclosure url="https://s3.us-west-1.wasabisys.com/tax-diner/001 Mike Diyanni.mp3" length="12582912" type="audio/mpeg" />
-      <guid>https://s3.us-west-1.wasabisys.com/tax-diner/001 Mike Diyanni.mp3</guid>
+      <enclosure url="https://s3.us-west-1.wasabisys.com/tax-diner/001_Michaiel_Diyanni.mp3" length="12582912" type="audio/mpeg" />
+      <guid>https://s3.us-west-1.wasabisys.com/tax-diner/001_Michael_Diyanni.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
