@@ -4,7 +4,7 @@
     <title>Tax Diner</title>
     <link>http://TaxDiner.com</link>
     <description>Conversations with tax professionals about what works and what doesn't in the tax services business.</description>
-	 <itunes:summary>Tax attorney Chris Bushong chats with tax professionals about their hard-won knowledge, professional challenges, and insights into the changing market for tax services. We'll cover the issues most pressing to small and medium tax firms, from business prac</itunes:summary>
+	 <itunes:summary>Tax attorney Chris Bushong chats with tax professionals about their hard-won knowledge, professional challenges, and insights into the changing market for tax services. We'll cover the issues most pressing to small and medium tax firms, from business practices to technology to where to get a deal on stamps.</itunes:summary>
 	 <itunes:subtitle />
     <itunes:category text="Business"></itunes:category>
 	<language>en-us</language>
@@ -43,7 +43,7 @@
       <itunes:summary>In our inaugural episode, Chris talks to Mike Diyanni about running a tax firm while teaching yoga in Peru.</itunes:summary>
       <itunes:keywords></itunes:keywords>
       <itunes:duration>00:32:46</itunes:duration>
-      <enclosure url="https://s3.us-west-1.wasabisys.com/tax-diner/001_Michaiel_Diyanni.mp3" length="12582912" type="audio/mpeg" />
+      <enclosure url="https://s3.us-west-1.wasabisys.com/tax-diner/001_Michael_Diyanni.mp3" length="12582912" type="audio/mpeg" />
       <guid>https://s3.us-west-1.wasabisys.com/tax-diner/001_Michael_Diyanni.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>

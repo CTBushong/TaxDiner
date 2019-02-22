@@ -31,14 +31,14 @@ const Subscribe = props => (
       <li className="subscribe__link subscribe__link--stitcher">
         <a
           target="_blank"
-          href="http://www.stitcher.com/s?fid=142440&refid=stpr"
+          href="https://www.stitcher.com/s?fid=375432&refid=stpr"
           rel="noopener noreferrer"
         >
           Stitcher
         </a>
       </li>
       <li className="subscribe__link subscribe__link--pocketcasts">
-        <a target="_blank" href="http://pca.st/fmx9" rel="noopener noreferrer">
+        <a target="_blank" href="https://pca.st/NHP0" rel="noopener noreferrer">
           PocketCasts
         </a>
       </li>
@@ -54,7 +54,7 @@ const Subscribe = props => (
       <li className="subscribe__link subscribe__link--spotify">
         <a
           target="_blank"
-          href="https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=bOe7-kl6RnOHapMsVnFWgw"
+          href="https://open.spotify.com/show/3WZvOvh6Aff1cymRB6oMTz"
           rel="noopener noreferrer"
         >
           Spotify
@@ -63,7 +63,7 @@ const Subscribe = props => (
       <li className="subscribe__link subscribe__link--rss">
         <a
           target="_blank"
-          href="http://feed.syntax.fm/rss"
+          href="http://taxdiner.com/static/rss/rss.xml"
           rel="noopener noreferrer"
         >
           RSS
