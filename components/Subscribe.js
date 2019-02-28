@@ -4,13 +4,14 @@ const Subscribe = props => (
       <li className="subscribe__link subscribe__link--itunes">
         <a
           target="_blank"
-          href="https://itunes.apple.com/ca/podcast/syntax-tasty-web-development-treats/id1253186678?mt=2"
+          href="https://itunes.apple.com/us/podcast/tax-diner/id1453920174"
           rel="noopener noreferrer"
         >
           iTunes
         </a>
       </li>
-      <li className="subscribe__link subscribe__link--overcast">
+      {/*
+        <li className="subscribe__link subscribe__link--overcast">
         <a
           target="_blank"
           href="https://overcast.fm/itunes1253186678/syntax-tasty-web-development-treats"
@@ -19,6 +20,8 @@ const Subscribe = props => (
           Overcast
         </a>
       </li>
+      */}
+      {/*}
       <li className="subscribe__link subscribe__link--google">
         <a
           target="_blank"
@@ -28,6 +31,7 @@ const Subscribe = props => (
           Google Podcast
         </a>
       </li>
+    */}
       <li className="subscribe__link subscribe__link--stitcher">
         <a
           target="_blank"
@@ -45,7 +49,7 @@ const Subscribe = props => (
       <li className="subscribe__link subscribe__link--googleplay">
         <a
           target="_blank"
-          href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ityd325x5s5ivr3fc74hvvgeztu?t%3DSyntax_-_Tasty_Web_Development_Treats%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"
+          href="https://play.google.com/music/listen#/ps/Ikbc2avklipye4lzi4rjsof2z5q"
           rel="noopener noreferrer"
         >
           Google Play
@@ -67,6 +71,15 @@ const Subscribe = props => (
           rel="noopener noreferrer"
         >
           RSS
+        </a>
+      </li>
+      <li className="subscribe__link subscribe__link--twitter">
+        <a
+          target="_blank"
+          href="http://twitter.com/TaxDiner"
+          rel="noopener noreferrer"
+        >
+          @TaxDiner
         </a>
       </li>
     </ul>
