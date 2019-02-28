@@ -1,8 +1,8 @@
-# Syntax.
+# Tax Diner.
 
 A tasty treats podcast for Web Developers.
 
-This is the site that runs [Syntax.fm](https://syntax.fm) — go there to listen to it!
+This is the site that runs [TaxDiner.com](https://taxdiner.com) — go there to listen to it!
 
 This site is built on React and Next.js
 

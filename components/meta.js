@@ -20,7 +20,7 @@ const Meta = ({ show, staticPage, baseURL }) => (
           <meta property="og:type" content="music.song" />
           <meta
             property="og:title"
-            content={`${show.title} — Syntax Podcast ${show.displayNumber}`}
+            content={`${show.title} — Tax Diner Podcast ${show.displayNumber}`}
           />
           <meta
             property="og:url"
@@ -33,16 +33,16 @@ const Meta = ({ show, staticPage, baseURL }) => (
       <meta property="og:description" content={description} />
       <meta
         property="og:image"
-        content={`${baseURL}/static/syntax-banner.png`}
+        content={`${baseURL}/static/taxdiner-banner.png`}
       />
       <link rel="shortcut icon" href={`${baseURL}/static/favicon.png`} />
       {show ? (
         <title>
-          {show.title} — Syntax Podcast {show.displayNumber}
+          {show.title} — Tax Diner Podcast {show.displayNumber}
         </title>
       ) : (
         <title>
-          {staticPage && staticPage.title && `${staticPage.title} – `}Syntax
+          {staticPage && staticPage.title && `${staticPage.title} – `}Tax Diner
           Podcast
         </title>
       )}

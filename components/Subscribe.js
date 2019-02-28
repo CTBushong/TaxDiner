@@ -14,7 +14,7 @@ const Subscribe = props => (
         <li className="subscribe__link subscribe__link--overcast">
         <a
           target="_blank"
-          href="https://overcast.fm/itunes1253186678/syntax-tasty-web-development-treats"
+          href="https://overcast.fm/itunes1253186678/taxdiner"
           rel="noopener noreferrer"
         >
           Overcast
@@ -71,6 +71,15 @@ const Subscribe = props => (
           rel="noopener noreferrer"
         >
           RSS
+        </a>
+      </li>
+      <li className="subscribe__link subscribe__link--youtube">
+        <a
+          target="_blank"
+          href="https://www.youtube.com/channel/UCo9bjvlwll7ypgRScqmS5ww"
+          rel="noopener noreferrer"
+        >
+          YouTube
         </a>
       </li>
       <li className="subscribe__link subscribe__link--twitter">
